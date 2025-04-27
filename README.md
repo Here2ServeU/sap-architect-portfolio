@@ -1,4 +1,4 @@
-# 🚀 SAP Solution Architect Portfolio – [Your Name]
+# SAP Solution Architect Portfolio – Emmanuel Naweji
 
 Welcome to my SAP Solution Architect Portfolio!
 
@@ -6,7 +6,7 @@ This repository showcases my expertise and hands-on experience in designing, ext
 
 ---
 
-## 📂 Portfolio Overview
+## Portfolio Overview
 
 | Area | Description |
 |:-----|:------------|
@@ -18,7 +18,7 @@ This repository showcases my expertise and hands-on experience in designing, ext
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 - SAP S/4HANA System Architecture
 - SAP Business Technology Platform (BTP) Extensions
@@ -30,7 +30,7 @@ This repository showcases my expertise and hands-on experience in designing, ext
 
 ---
 
-## 🖼️ SAP Architecture Diagrams
+##️ SAP Architecture Diagrams
 
 - `sap-landscape-designs/`
   - `sap_s4hana_on_aws.png`
@@ -41,7 +41,7 @@ Visual system landscapes demonstrating SAP deployments on AWS, HANA HA setups, a
 
 ---
 
-## 🧠 Business Process Flows
+## Business Process Flows
 
 - `business-process-maps/`
   - `order-to-cash-process-map.png`
@@ -62,21 +62,21 @@ Explaining how standard SAP functionality is enhanced using modern extensibility
 
 ---
 
-## 📚 Certification Journey
+## Certification Journey
 
-- SAP Certified Application Associate - SAP S/4HANA Sales (Planned)
+- SAP Certified Application Associate - SAP S/4HANA Sales (Pending)
 - SAP Certified Technology Associate - System Administration (SAP HANA) (Planned)
-- AWS Certified Solutions Architect – Associate (Planned)
+- AWS Certified Solutions Architect – Associate (Pending)
 
 ---
 
-## 📩 Connect with Me
+## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub Profile](https://github.com/yourgithubusername)
+- [LinkedIn](https://linkedin.com/in/ready2assist/)
+- [GitHub Profile](https://github.com/Here2ServeU)
 
 Let's connect and build next-generation SAP solutions together!
 
 ---
 
-> *"Bridging business excellence with technical innovation through SAP."* 🚀
+> *"Bridging business excellence with technical innovation through SAP."*
